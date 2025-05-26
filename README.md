@@ -2,7 +2,7 @@
 
 I'm a **CS Student, Tech Enthusiast**
 passionate about **Software engineering, Java, Python, web development**.
-I enjoy building projects that **That challenge my techincal skills, Can solve real world problems, can be entertaining** and continuously learning new technologies.
+I enjoy building projects that **challenges my technical skills, Can solve real world problems, can be entertaining** and continuously learning new technologies.
 
 ---
 
