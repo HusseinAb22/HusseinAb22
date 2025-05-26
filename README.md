@@ -2,7 +2,7 @@
 
 I'm a **CS Student, Tech Enthusiast**
 passionate about **Software engineering, Java, Python, web development**.
-I enjoy building projects that **challenges my technical skills, Can solve real world problems, can be entertaining** and continuously learning new technologies.
+I enjoy building projects that **challenges my technical skills, can solve real world problems, can be entertaining** and eager to learn new technologies.
 
 ---
 
@@ -14,7 +14,6 @@ I enjoy building projects that **challenges my technical skills, Can solve real 
 * 👯 I’m looking to collaborate on **open-source web applications, fullstack projects**.
 * 🤔 I’m looking for mentoring with **How to Write clean and understandable code / production ready code**.
 * 💬 Ask me about **Java, Python,JS or anything that can come up to mind**.
-* 📫 How to reach me: connect with me on [**[LinkedIn Profile](https://www.linkedin.com/in/hussein-abbas/)**].
 * ⚡ Fun fact: **I love to learn new technologies and am always facinated by them**.
 
 ---
@@ -22,10 +21,23 @@ I enjoy building projects that **challenges my technical skills, Can solve real 
 ## 🛠️ My Skills
 
 * **Languages:** [Java, Python, JS, Linux, C++]
-* **Frameworks/Libraries:** [Spring Boot, Node,js]
+* **Frameworks/Libraries:** [Spring Boot, Node,js, Android]
 * **Databases:** [SQL (MySQL, PostgreSQL), MongoDB, Firebase]
 * **Tools & Platforms:** [Git & GitHub]
 * **Other:** [Self Learner, Teamwork, Leadership, Communication, Problem Solving]
+
+---
+
+## 🤝 Let's Connect!
+
+* 🔗 [**LinkedIn**](https://www.linkedin.com/in/hussein-abbas/)
+---
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HusseinAb22&show_icons=true&theme=radical" alt="HusseinAb22's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinAb22&layout=compact&theme=radical" alt="HusseinAb22's Top Languages" />
+</p>
 
 ---
 
@@ -49,20 +61,6 @@ I enjoy building projects that **challenges my technical skills, Can solve real 
 ➡️ You can find more of my projects [here on my GitHub repositories page](https://github.com/HusseinAb22?tab=repositories).
 
 ---
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HusseinAb22&show_icons=true&theme=radical" alt="HusseinAb22's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinAb22&layout=compact&theme=radical" alt="HusseinAb22's Top Languages" />
-</p>
-
----
-
-## 🤝 Let's Connect!
-
-* 🔗 [**LinkedIn**](https://www.linkedin.com/in/hussein-abbas/)
-
 ---
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to connect or collaborate.
