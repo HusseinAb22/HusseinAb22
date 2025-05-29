@@ -35,8 +35,8 @@ I enjoy building projects that **challenges my technical skills, can solve real 
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HusseinAb22&show_icons=true&theme=radical" alt="HusseinAb22's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinAb22&layout=compact&theme=radical" alt="HusseinAb22's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HusseinAb22&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="HusseinAb22's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinAb22&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="HusseinAb22's Top Languages" />
 </p>
 
 ---
