@@ -16,4 +16,4 @@ Currently looking for **backend / low-level software engineering** roles in Isra
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/hussein-abbas/) · hussein.ab222@gmail.com
+[LinkedIn](https://www.linkedin.com/in/hussein-abbas/) 
